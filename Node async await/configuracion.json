@@ -1,0 +1,7 @@
+{
+
+    "mongodb_url": "mongodb+srv://marioarjona99:gf7nMsboN4kjkS5W@cluster0.gqsjcp5.mongodb.net/esquema-tienda?retryWrites=true&w=majority&appName=Cluster0",
+
+    "http_puerto": 7000,
+    "cors.origin":"http://localhost:4200"
+}
